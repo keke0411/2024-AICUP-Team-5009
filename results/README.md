@@ -1,0 +1,1 @@
+The trained weights could be downloaded from [AICUP Team 5009 Weights](https://drive.google.com/drive/folders/1RhgtsKqOjap2nYfvxrmmxtAfFsnqcz-5?usp=sharing)
